@@ -1246,7 +1246,7 @@ export default function FoodTracker() {
               <h3 style={{ margin: '0 0 12px 0', fontSize: '24px', fontWeight: '700', color: '#1f2937' }}>
                 Meal Planning Coming Soon
               </h3>
-              <p style={{ margin: 0, fontSize: '16px', color: '#6b7280', maxWidth: '500px', margin: '0 auto', lineHeight: '1.6' }}>
+              <p style={{ fontSize: '16px', color: '#6b7280', maxWidth: '500px', margin: '0 auto', lineHeight: '1.6' }}>
                 We're building an intelligent meal planning feature that will suggest balanced meals based on your goals, preferences, and nutritional needs.
               </p>
               <button
