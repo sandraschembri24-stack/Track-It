@@ -1,0 +1,16 @@
+{
+  "name": "my-app",
+  "private": true,
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest"
+  }
+}
